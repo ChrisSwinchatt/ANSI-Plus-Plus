@@ -1,0 +1,5 @@
+doc/gen/*
+.ignore/*
+*.o
+*.so
+*.so.*
